@@ -1,0 +1,3 @@
+database name = kyawboboaung_shoplas
+username = shoplasuser
+password = shoplasuser777
