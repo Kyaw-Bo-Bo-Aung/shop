@@ -10,6 +10,32 @@
   		</div>
 	</div>
 	
+	<div class="container">
+		<div class="row row-cols-md-2">
+			<div class="col">
+				<div class="card m-auto mt-3">
+					<p class="card-header">For admin</p>
+					<div class="card-body">
+						<p>email: admin@gmail.com</p>
+						<p>password: password</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col">
+				<div class="card m-auto mt-3">
+					<p class="card-header">For customer</p>
+					<div class="card-body">
+						<p>email: apple@gmail.com</p>
+						<p>password: password</p>
+						<p class="text-muted">Or <em>You can register and use!</em></p>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>
+	
+	
 	<!-- Content -->
 	<div class="container my-5">
 

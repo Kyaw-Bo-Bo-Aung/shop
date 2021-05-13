@@ -123,14 +123,6 @@
                     </a>
                 </li>
 
-                <li>
-                    <a class="app-menu__item" href="dashboard.html">
-                        <i class="app-menu__icon icofont-users-social"></i>
-                        <span class="app-menu__label">
-                            Customer
-                        </span>
-                    </a>
-                </li>
 
                 <li>
                     <a class="app-menu__item" href="brand_list.php">
